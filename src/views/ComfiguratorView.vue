@@ -305,7 +305,7 @@ const weight_material_options = [
   },
   {
     value: "SS",
-    label: "SS PVD Mirror",
+    label: "Stainless Steel PVD Mirror",
   },
 ];
 
@@ -319,15 +319,15 @@ const cf_weight_color_options = [
 const pvd_weight_color_options = [
   {
     value: "PVDBlack",
-    label: "PVD Black",
+    label: "SS PVD Black",
   },
   {
     value: "PVDSilver",
-    label: "PVD Silver",
+    label: "SS PVD Silver",
   },
   {
     value: "PVDGold",
-    label: "PVD Gold",
+    label: "SS PVD Gold",
   },
 ];
 const glass_weight_color_options = [
